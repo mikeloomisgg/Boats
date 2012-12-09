@@ -1,12 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Custom Assets\surfaceMesh.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Custom Assets\MeshDamage.js">
     <Files>
-      <File FileName="Assets\Custom Assets\OceanFieldGenerator.js" Line="52" Column="11" />
-      <File FileName="Assets\Custom Assets\surfaceMesh.js" Line="44" Column="9" />
-      <File FileName="Assets\Custom Assets\Wave.js" Line="23" Column="2" />
-      <File FileName="Assets\Custom Assets\Ocean.js" Line="115" Column="2" />
-      <File FileName="Assets\Custom Assets\Boyancy.js" Line="51" Column="1" />
+      <File FileName="Assets\Custom Assets\OceanFieldGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Custom Assets\surfaceMesh.js" Line="1" Column="1" />
+      <File FileName="Assets\Custom Assets\Wave.js" Line="1" Column="1" />
+      <File FileName="Assets\Custom Assets\MeshDamage.js" Line="9" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

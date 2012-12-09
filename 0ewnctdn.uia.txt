@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   Assembly-CSharp-Editor-vs.csproj
+#	modified:   Assembly-CSharp-Editor.csproj
+#	modified:   Assembly-CSharp-firstpass-vs.csproj
+#	modified:   Assembly-CSharp-firstpass.csproj
+#	modified:   Assembly-CSharp-vs.csproj
+#	modified:   Assembly-CSharp.csproj
+#	modified:   Assembly-UnityScript-firstpass-vs.unityproj
+#	modified:   Assembly-UnityScript-firstpass.unityproj
+#	modified:   Assembly-UnityScript-vs.unityproj
+#	modified:   Assembly-UnityScript.unityproj
+#	new file:   Assets/Custom Assets/MeshDamage.js
+#	deleted:    Assets/Custom Assets/NewBehaviourScript.js
+#	modified:   Assets/Custom Assets/water material.mat
+#	new file:   Assets/Simple Wooden Boat/Meshes/Materials/New boat map2.mat
+#	modified:   Assets/Standard Assets/Skyboxes/Sunny1 Skybox.mat
+#	new file:   Assets/Standard Assets/Tessellation Shaders/_Example/Materials/lambert1.mat
+#	new file:   Assets/Standard Assets/Water (Basic)/Sources/Objects/Materials/lambert1.mat
+#	modified:   Assets/testscene.unity
+#	modified:   Boats-csharp.sln
+#	modified:   Boats.sln
+#	modified:   Boats.userprefs
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   Assembly-CSharp-Editor-vs.csproj
+#	modified:   Assembly-CSharp-Editor.csproj
+#	modified:   Boats-csharp.sln
+#	modified:   Boats.sln
+#	modified:   Boats.userprefs
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	s5m4mzjb.mra.txt
+
